@@ -1,10 +1,10 @@
-# BTree-Index
+# BTree-Index   #Academic Project
 
 
-In this project milestone, we are tasked with implementing a B+ Tree Index for insertion and lookup operations. We will follow the C++ implementation and utilize the BTreeNode classes for automatic splitting when necessary during insertion. The Insertion pair in Python is represented as std::pair in C++.
+In this project milestone, we are tasked with implementing a B+ Tree Index for insertion and lookup operations. We will follow the C++ implementation and utilize the BTreeNode classes for automatic splitting when necessary during insertion. By utilizing the classes and methods provided by the professor in helper code, I added logic for the B-tree Index in Btree.cpp
 
 
-This code implements a B+ Tree Index data structure and provides functionalities for creating, opening, closing, dropping the index, as well as inserting and looking up rows based on specified key values. The B+ Tree Index is implemented using BTreeIndex, BTreeNode (BTreeLeaf and BTreeInterior), and BTreeStat classes.
+This code implements a B+ Tree Index data structure and provides functionalities for creating, opening, closing, and dropping the index, as well as inserting and looking up rows based on specified key values. The B+ Tree Index is implemented using BTreeIndex, BTreeNode (BTreeLeaf and BTreeInterior), and BTreeStat classes.
 
 ## Key points in the implementation:
 
